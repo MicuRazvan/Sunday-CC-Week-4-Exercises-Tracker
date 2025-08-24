@@ -20,7 +20,7 @@ The application represents each day as a JList component. Tasks are stored as in
 
 Features
 
-- Create Sheets on which you can add as many days as you want. For each day can add as many exercises as you want. For each Sheet the structure looks like: Sheet <List<Day<List<item>>>>
+- Create Sheets on which you can add as many days as you want. For each day can add as many exercises as you want. For each Sheet the structure looks like: Sheet<List<Day<List<Item>>>>
 - Every Item object has 3 editable fields: name, link and description, each one can be left empty.
 - Every field including the Sheet/Day name can be renamed
 
