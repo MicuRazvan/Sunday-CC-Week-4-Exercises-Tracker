@@ -1,0 +1,140 @@
+{
+  "name": "Exercises Routine",
+  "days": [
+    {
+      "name": "Day 1 - Arms + Shoulders",
+      "items": [
+        {
+          "name": "Banded Biceps Curls",
+          "link": "https://www.youtube.com/shorts/hN59M5kM_0k",
+          "description": "3x15 sets\n"
+        },
+        {
+          "name": "Overhead Triceps Extensions with Band",
+          "link": "https://www.youtube.com/shorts/ZFftJ2p9Vao",
+          "description": "3x12 sets"
+        },
+        {
+          "name": "Banded Lateral Raises",
+          "link": "https://www.youtube.com/shorts/YuOhl4-Ppq4",
+          "description": "3x15 sets"
+        },
+        {
+          "name": "Banded Front Raises",
+          "link": "https://www.youtube.com/watch?v\u003d7FI26gHieOM",
+          "description": "3x12 sets"
+        },
+        {
+          "name": "Overhead Shoulder Press with Band",
+          "link": "https://www.youtube.com/shorts/AK4wMdBUsZ0",
+          "description": "3x12 sets"
+        },
+        {
+          "name": "Resistance Band Face Pull",
+          "link": "https://www.youtube.com/watch?v\u003da0mnecMGlTM",
+          "description": "3x15 sets"
+        }
+      ]
+    },
+    {
+      "name": "Day 2 - Legs + Glutes",
+      "items": [
+        {
+          "name": "Banded Glute Bridge",
+          "link": "https://www.youtube.com/watch?v\u003d2_Z61SwEuWw",
+          "description": "3x15 sets"
+        },
+        {
+          "name": "Banded Side Leg Raises",
+          "link": "https://www.youtube.com/watch?v\u003dUUsL5t6v9Y0",
+          "description": "3x15 sets on each leg"
+        },
+        {
+          "name": "Banded Hip Thrusts",
+          "link": "https://www.youtube.com/watch?v\u003djKmOxSXTpDo",
+          "description": "3x12 sets"
+        },
+        {
+          "name": "Banded Glute Kickbacks",
+          "link": "https://www.youtube.com/shorts/Oz9KXbiSt2c",
+          "description": "3x15 sets"
+        },
+        {
+          "name": "Banded Calf Raises",
+          "link": "https://www.youtube.com/watch?v\u003d_nUI6cnlQb0",
+          "description": "4x20 sets"
+        },
+        {
+          "name": "Banded Side-Lying Leg Abductions",
+          "link": "https://www.youtube.com/shorts/uYP78pCfzVQ",
+          "description": "3x15 sets"
+        },
+        {
+          "name": "[Optional]Banded Hip Thrusts",
+          "link": "https://www.youtube.com/watch?v\u003d2OaqZ-QAiYw",
+          "description": "3x15sets"
+        },
+        {
+          "name": "[Optional]Banded Squats",
+          "link": "https://www.youtube.com/shorts/RN4xlBbJUkM",
+          "description": "4x15 sets"
+        },
+        {
+          "name": "[Optional]Banded Lunges",
+          "link": "https://www.youtube.com/watch?v\u003dHwGnYhB1HdU",
+          "description": "3x12 sets on each leg"
+        }
+      ]
+    },
+    {
+      "name": "Day 3 - Back + Trunk",
+      "items": [
+        {
+          "name": "Seated Resistance Band Rows",
+          "link": "https://www.youtube.com/shorts/bBpK36TAQww",
+          "description": "4x15 sets"
+        },
+        {
+          "name": "Banded Lat Pull-Down",
+          "link": "https://www.youtube.com/watch?v\u003dMDAk3N1wEfI",
+          "description": "3x12 sets"
+        },
+        {
+          "name": "Banded Romanian Deadlift",
+          "link": "https://www.youtube.com/shorts/jaRAR9l1e2o",
+          "description": "3x15sets"
+        },
+        {
+          "name": "Resistance Band Plank Hold",
+          "link": "https://www.youtube.com/watch?v\u003daheezEchIr0",
+          "description": "3x 30-60seconds"
+        },
+        {
+          "name": "Resistance Band Pallof Press",
+          "link": "https://www.youtube.com/shorts/5aZ0IhJS8O8",
+          "description": "3x12 on each side"
+        },
+        {
+          "name": "Resistance Band Woodchoppers",
+          "link": "https://www.youtube.com/shorts/90Qh5XG6mqs",
+          "description": "3x12 on each side"
+        },
+        {
+          "name": "Banded Russian Twists",
+          "link": "https://www.youtube.com/shorts/dx3R4gNabSE",
+          "description": "3x20 on each side"
+        }
+      ]
+    },
+    {
+      "name": "Day 4 - Break or [Optional] ",
+      "items": [
+        {
+          "name": "2xsets with 10mins break",
+          "link": "",
+          "description": "Set:\n*20 push ups\n*20 sit ups\n*20 squats\n*1 minute plank\n*20-25 minutes kicks\n*10 korean push ups\n*10 double crunch\n*30 seconds single leg plank"
+        }
+      ]
+    }
+  ]
+}

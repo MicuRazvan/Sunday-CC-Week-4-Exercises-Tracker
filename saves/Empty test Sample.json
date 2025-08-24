@@ -1,0 +1,50 @@
+{
+  "name": "Empty test Sample",
+  "days": [
+    {
+      "name": "Day 1",
+      "items": [
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        },
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        },
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        }
+      ]
+    },
+    {
+      "name": "Day 2",
+      "items": [
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        }
+      ]
+    },
+    {
+      "name": "Day 3",
+      "items": [
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        },
+        {
+          "name": "New Item",
+          "link": "http://",
+          "description": "Description..."
+        }
+      ]
+    }
+  ]
+}
